@@ -24,7 +24,7 @@ PREGUNTA 3 (5 pts)
 ¿Qué diferencia hay entre un repositorio local y uno remoto?
 
 Tu respuesta:
-[local esta en tu computador ]
+[local esta en tu computador y remoto eata en internet normalmente en GITHUB ]
 
 ----------------------------------------------------------------
 PREGUNTA 4 (5 pts)
@@ -32,7 +32,9 @@ Escribe la secuencia completa de comandos para subir un nuevo
 archivo llamado "datos.csv" a GitHub (desde git add hasta push):
 
 Tu respuesta:
-[Escribe aquí]
+[git add datos.csv 
+git commit -m "se agrega el archivo datos.csv" 
+git push]
 
 ----------------------------------------------------------------
 FIN DEL ARCHIVO
